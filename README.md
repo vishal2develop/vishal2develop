@@ -15,7 +15,7 @@
 
 - 📝 I regulary write articles on [https://medium.com/@vish98950](https://medium.com/@vish98950)
 
-- 💬 Ask me about **Data Science, AI Applications**
+- 💬 Ask me about **Data Science, AI Applications,Startup Ideas**
 
 - 📫 How to reach me **vishalborana2407@gmail.com**
 
