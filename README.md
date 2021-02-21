@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vishal Borana</h1>
-<h3 align="center">A passionate technology enthusiast with a knack for UI and Data.</h3>
+<h3 align="center">A Fullstack Web Developer with a knack for AI and Machine Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal2develop" alt="vishal2develop" /> </p>
 
 - 🔭 I’m currently working on [I’m Something of a Painter Myself](https://www.kaggle.com/c/gan-getting-started)
 
-- 🌱 I’m currently learning **Flutter, Dphi - Deep Learning Bootcamp**
+- 🌱 I’m currently learning **Flutter, React-Native**
 
 - 👯 I’m looking to collaborate on [Machine Learning Visuals – A Brilliant Way to Communicate for Data Science Professionals](https://github.com/dair-ai/ml-visuals)
 
