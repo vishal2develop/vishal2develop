@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Borana</h1>
-<h3 align="center">A Fullstack Web Developer with a knack for AI and Machine Learning.</h3>
+<h3 align="center">A Fullstack Web Developer with keen interest in App Development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal2develop" alt="vishal2develop" /> </p>
 
