@@ -3,21 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal2develop" alt="vishal2develop" /> </p>
 
-- 🔭 I’m currently working on [I’m Something of a Painter Myself](https://www.kaggle.com/c/gan-getting-started)
 
-- 🌱 I’m currently learning **Flutter, React-Native**
-
-- 👯 I’m looking to collaborate on [Machine Learning Visuals – A Brilliant Way to Communicate for Data Science Professionals](https://github.com/dair-ai/ml-visuals)
-
-- 🤝 I’m looking for help with [Learning GPT 3](https://github.com/openai/gpt-3)
+- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://vishal2develop.github.io/flexible-jekyll/](https://vishal2develop.github.io/flexible-jekyll/)
 
 - 📝 I regulary write articles on [https://medium.com/@vish98950](https://medium.com/@vish98950)
 
-- 💬 Ask me about **Data Science, AI Applications,Startup Ideas**
+- 💬 Ask me about **AI Applications,Startup Ideas,System Design**
 
-- 📫 How to reach me **vishalborana2407@gmail.com**
+- 📫 How to reach me **vish98950@gmail.com**
 
 - ⚡ Fun fact **I Love Capsicums**
 
