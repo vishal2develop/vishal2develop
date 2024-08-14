@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal2develop" alt="vishal2develop" /> </p>
 
 
-- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://vishal2develop.github.io/flexible-jekyll/](https://vishal2develop.github.io/flexible-jekyll/)
 
@@ -14,7 +13,7 @@
 
 - 📫 How to reach me **vish98950@gmail.com**
 
-- ⚡ Fun fact **I Love Capsicums**
+- ⚡ Fun fact **I'm an adventure freak**
 
 ### Blogs posts
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@vish98950/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vish98950/0" alt="Recent Article 0"> 
