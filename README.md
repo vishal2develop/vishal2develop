@@ -5,7 +5,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://vishal2develop.github.io/flexible-jekyll/](https://vishal2develop.github.io/flexible-jekyll/)
+- 👨‍💻 All of my projects are available at [https://vishal-borana.netlify.app/)
 
 - 📝 I regulary write articles on [https://medium.com/@vish98950](https://medium.com/@vish98950)
 
