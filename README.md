@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Borana</h1>
-<h3 align="center">A Fullstack Web Developer with keen interest in App Development.</h3>
+<h3 align="center">A Fullstack Web Developer and life long learner.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal2develop" alt="vishal2develop" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📝 I regulary write articles on [https://medium.com/@vish98950](https://medium.com/@vish98950)
 
-- 💬 Ask me about **AI Applications,Startup Ideas,System Design**
+- 💬 Ask me about **AI Applications,Startup Ideas, Distributed System. System Architecture**
 
 - 📫 How to reach me **vish98950@gmail.com**
 
