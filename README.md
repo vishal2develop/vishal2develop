@@ -9,7 +9,7 @@
 
 - 📝 I regulary write articles on [https://medium.com/@vish98950](https://medium.com/@vish98950)
 
-- 💬 Ask me about **AI Applications,Startup Ideas, Distributed System. System Architecture**
+- 💬 Ask me about **AI Applications,Startup Ideas, Distributed Systems, System Architecture**
 
 - 📫 How to reach me **vish98950@gmail.com**
 
